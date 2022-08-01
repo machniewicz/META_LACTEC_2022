@@ -1,0 +1,8 @@
+# Security
+security:
+ user:
+  name: admin
+  password: 123456
+  roles: USER
+basic:
+ enabled:true
